@@ -15,7 +15,7 @@ from yowsup import env
 
 
 
-CREDENTIALS = ("917829982693", "xxubkjyhbFFFkI4H6mXiGb7ytEU=") # replace with your phone and password
+CREDENTIALS = ("918171979152", "oZX4Y8ZkjjNYO5vKh44p3d01pBA=") # replace with your phone and password
 
 if __name__==  "__main__":
     layers = (
